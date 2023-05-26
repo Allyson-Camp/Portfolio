@@ -1,8 +1,10 @@
+
+body {
+    background-color: rgb(238, 212, 241);
+}
 .name {
     width: 50%;
     padding: 10px;
-}
-.name #title {
     text-align: left;
 }
 
@@ -21,8 +23,36 @@
     border-radius: 10px;
 }
 
+.background a {
+    text-decoration: none;
+    color: rgb(60, 39, 72);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.background a:hover {
+    color:rgb(32, 70, 66)
+}
+
 .projects {
     border: 3px solid black;
     border-radius: 10px;
 }
 
+.projects #ghost-hunter{
+    width: 30%;
+    /* float: right; */
+    padding: 5px;
+}
+
+.projects #animal-sanctuary{
+    width: 30%;
+    /* float: left; */
+    padding: 5px;
+}
+
+.projects #shell-game{
+    width: 30%;
+    /* float: left; */
+    padding: 5px;
+    
+}
