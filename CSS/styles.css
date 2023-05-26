@@ -4,18 +4,26 @@ body {
 }
 .name {
     width: 50%;
+    float: left;
     padding: 10px;
+    margin: 10px;
     text-align: left;
 }
 
 .name img {
   height: 400px;
   width: 275px;
+  
 }
 
 .about-me {
     border: 3px solid black;
     border-radius: 10px;
+    margin-top: 100px;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 40%;
+    float: right;
 }
 
 #linkedin-logo {
@@ -31,6 +39,10 @@ body {
 .background {
     border: 3px solid black;
     border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 40%;
+    float: left;
 }
 
 .background a {
@@ -46,6 +58,10 @@ body {
 .projects {
     border: 3px solid black;
     border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 40%;
+    float: right;
 }
 
 .repo-links {
