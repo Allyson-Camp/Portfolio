@@ -18,6 +18,16 @@ body {
     border-radius: 10px;
 }
 
+#linkedin-logo {
+    height: 30px;
+    width: 30px;
+}
+
+#github-logo {
+    height: 30px;
+  
+}
+
 .background {
     border: 3px solid black;
     border-radius: 10px;
@@ -38,21 +48,22 @@ body {
     border-radius: 10px;
 }
 
-.projects #ghost-hunter{
+.repo-links {
+    width:100%;
+    float: left;
+}
+ #ghost-hunter{
     width: 30%;
-    /* float: right; */
     padding: 5px;
 }
 
-.projects #animal-sanctuary{
+#animal-sanctuary{
     width: 30%;
-    /* float: left; */
     padding: 5px;
 }
 
-.projects #shell-game{
+#shell-game{
     width: 30%;
-    /* float: left; */
     padding: 5px;
     
 }
