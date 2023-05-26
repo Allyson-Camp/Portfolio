@@ -6,7 +6,7 @@
 
 ## Technologies Used
 
-* _HTMLl_
+* _HTML_
 * _CSS_
 * _Markdown_
 

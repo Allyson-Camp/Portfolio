@@ -1,13 +1,14 @@
 .name {
-    border: 5px solid black;
-    border-radius: 10px;
+    width: 50%;
+    padding: 10px;
 }
-.name h1 {
-    text-align: center;
+.name #title {
+    text-align: left;
 }
 
-.name h3 {
-    text-align: center;
+.name img {
+  height: 400px;
+  width: 275px;
 }
 
 .about-me {
@@ -24,3 +25,4 @@
     border: 3px solid black;
     border-radius: 10px;
 }
+
