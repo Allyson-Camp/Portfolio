@@ -1,40 +1,42 @@
-
 body {
     background-color: rgb(238, 212, 241);
+    font-family: "Raleway", sans-serif;
 }
+
 .name {
-    /* width: 50%; */
+    width: 40%;
     float: left;
     padding: 10px;
     margin-left: 50px;
-    text-align: left;
+    text-align: center;
 }
 
 .name img {
-  height: 400px;
-  width: 275px;
-  
+    height: 400px;
+    width: 275px;
 }
 
 .about-me {
     border: 3px solid black;
     border-radius: 10px;
-    margin-top: 100px;
+    margin-top: 150px;
     margin-bottom: 5px;
     margin-right: 50px;
     padding: 10px;
     width: 40%;
     float: right;
+    text-align: center;
 }
 
-#linkedin-logo {
-    height: 30px;
-    width: 30px;
+.about-me p {
+    text-align: left;
 }
 
-#github-logo {
-    height: 30px;
-  
+#logo {
+    height: 80px;
+    width: 80px;
+    padding: 10px 10px 0px 10px;
+    margin: 5px;
 }
 
 .background {
@@ -44,44 +46,45 @@ body {
     padding: 10px;
     width: 40%;
     float: left;
+    text-align: center;
 }
 
-.background a {
-    text-decoration: none;
-    color: rgb(60, 39, 72);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.background h3 {
+    text-align: left;
 }
 
-.background a:hover {
-    color:rgb(32, 70, 66)
+.background ul {
+    text-align: left;
 }
 
 .projects {
+    text-align: center;
     border: 3px solid black;
     border-radius: 10px;
-    margin: 10px;
-    margin-right: 50px;
+    margin: 20px;
+    margin-right: 65px;
     padding: 10px;
-    width: 40%;
+    width: 90%;
     float: right;
 }
 
 .repo-links {
-    width:100%;
+    width: 100%;
     float: left;
+    margin: 30px;
 }
- #ghost-hunter{
-    width: 30%;
+
+#ghost-hunter {
+    width: 400px;
     padding: 5px;
 }
 
-#animal-sanctuary{
-    width: 30%;
+#animal-sanctuary {
+    width: 400px;
     padding: 5px;
 }
 
-#shell-game{
-    width: 30%;
+#shell-game {
+    width: 432px;
     padding: 5px;
-    
 }
