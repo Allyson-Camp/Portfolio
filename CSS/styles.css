@@ -24,19 +24,15 @@ body {
     float: left;
     padding: 10px;
     margin-left: 20px;
-    text-align: center;
+    box-sizing: border-box;
 }
 
 .name img {
-    /* height: 400px;
-    width: 275px; */
     width: 100%;
 }
 
 .about-me {
     width: 50vw;
-    margin-top: 10%;
-    margin-right: 20px;
     float: right;
     text-align: center;
 }
@@ -50,14 +46,41 @@ body {
     font-size: 20px;
 }
 
-.projects {
-    text-align: center;
-    border: 3px solid black;
-    border-radius: 10px;
-    /* margin: 20px;
-    margin-right: 65px; */
+.background {
     padding: 10px;
+    width: 30vw;
+    margin-top: 30px;
+    float: left;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.background h3 {
+    font-size: 30px;
+}
+
+.background ul {
+    text-align: left;
+    font-size: 20px;
+}
+
+#logo {
+    height: 80px;
+    width: 80px;
+    padding: 10px 10px 0px 10px;
+    margin: 5px;
+}
+
+.projects {
     width: 40vw;
+    border: 3px solid rgb(188, 158, 196);
+    border-radius: 10px;
+    margin-right: 65px;
+    margin-bottom: 40px;
+    padding: 50px;
+
     float: right;
 }
 
@@ -81,35 +104,3 @@ body {
     width: 432px;
     padding: 5px;
 }
-
-
-.background {
-    /* border: 3px solid black;
-    border-radius: 10px; */
-    padding: 10px;
-    margin-top: 30px;
-    /* text-align: center; */
-    float: left;
-}
-
-.bold {
-    font-weight: 800;
-}
-
-.background h3 {
-font-size: 30px;
-}
-
-.background ul {
-    text-align: left;
-    font-size: 20px;
-}
-
-
-#logo {
-    height: 80px;
-    width: 80px;
-    padding: 10px 10px 0px 10px;
-    margin: 5px;
-}
-
