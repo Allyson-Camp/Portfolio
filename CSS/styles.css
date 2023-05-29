@@ -103,6 +103,10 @@ body {
     border-radius: 40px;
 }
 
+.scale-img :hover{
+    transform: scale(1.2);
+}
+
 #ghost-hunter {
     width: 400px;
     padding: 5px;
