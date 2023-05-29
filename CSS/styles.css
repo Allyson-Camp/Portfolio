@@ -1,29 +1,44 @@
 body {
     background-color: rgb(238, 212, 241);
-    font-family: "Raleway", sans-serif;
+    font-family: "Tsukimi Rounded", sans-serif;
+}
+
+.top {
+    width: 100vw;
+    background-color: rgb(188, 158, 196);
+    text-align: center;
+    height: 21vh;
+    float: right;
+}
+
+.top h1 {
+    font-size: 80px;
+}
+
+.top h2 {
+    font-size: 60px;
 }
 
 .name {
-    width: 40%;
+    width: 20vw;
     float: left;
     padding: 10px;
-    margin-left: 50px;
+    margin-left: 20px;
     text-align: center;
 }
 
 .name img {
-    height: 400px;
-    width: 275px;
+    /* height: 400px;
+    width: 275px; */
+    width: 100%;
 }
 
+
+
 .about-me {
-    border: 3px solid black;
-    border-radius: 10px;
-    margin-top: 150px;
-    margin-bottom: 5px;
-    margin-right: 50px;
-    padding: 10px;
-    width: 40%;
+    width: 50vw;
+    margin-top: 10%;
+    margin-right: 20px;
     float: right;
     text-align: center;
 }
