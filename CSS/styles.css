@@ -104,23 +104,10 @@ body {
 .repo-links img {
     border: 10px solid rgb(188, 158, 196);
     border-radius: 40px;
+    width: 200px;
+    padding: 5px;
 }
 
 .scale-img :hover{
     transform: scale(1.2);
-}
-
-#ghost-hunter {
-    width: 200px;
-    padding: 5px;
-}
-
-#animal-sanctuary {
-    width: 200px;
-    padding: 5px;
-}
-
-#shell-game {
-    width: 200px;
-    padding: 5px;
 }
