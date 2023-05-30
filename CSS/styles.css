@@ -12,11 +12,11 @@ body {
 }
 
 .top h1 {
-    font-size: 80px;
+    font-size: 40px;
 }
 
 .top h2 {
-    font-size: 60px;
+    font-size: 30px;
 }
 
 .headshot {
@@ -36,12 +36,12 @@ body {
 }
 
 .about-me h3 {
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .about-me p {
     text-align: left;
-    font-size: 30px;
+    font-size: 15px;
 }
 
 .background {
@@ -56,12 +56,12 @@ body {
 }
 
 .background h3 {
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .background ul {
     text-align: left;
-    font-size: 30px;
+    font-size: 15px;
 }
 
 #logo {
@@ -74,7 +74,7 @@ body {
 }
 
 .projects {
-    font-size: 30px;
+    font-size: 15px;
     padding: 50px;
     margin: auto;
     margin-right: 65px;
@@ -85,7 +85,7 @@ body {
 }
 
 .projects h3 {
-    font-size: 35px;
+    font-size: 20px;
 }
 
 .repo-links {
