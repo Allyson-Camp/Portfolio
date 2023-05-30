@@ -1,9 +1,10 @@
 body {
     background-color: rgb(238, 212, 241);
-    font-family: "Tsukimi Rounded", sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .top {
+    font-family: "Tsukimi Rounded", sans-serif;
     width: 100vw;
     background-color: rgb(188, 158, 196);
     text-align: center;
@@ -36,6 +37,7 @@ body {
 }
 
 .about-me h3 {
+    font-family: "Tsukimi Rounded", sans-serif;
     font-size: 20px;
 }
 
@@ -56,6 +58,7 @@ body {
 }
 
 .background h3 {
+    font-family: "Tsukimi Rounded", sans-serif;
     font-size: 20px;
 }
 
@@ -67,8 +70,8 @@ body {
 #logo {
     border: 10px solid rgb(188, 158, 196);
     border-radius: 40px;
-    height: 100px;
-    width: 100px;
+    height: 60px;
+    width: 60px;
     padding: 10px 10px 0px 10px;
     margin: 5px;
 }
@@ -76,8 +79,7 @@ body {
 .projects {
     font-size: 15px;
     padding: 50px;
-    margin: auto;
-    margin-right: 65px;
+    margin-right: 5px;
     margin-bottom: 40px;
     width: 60vw;
     box-sizing: border-box;
@@ -85,6 +87,7 @@ body {
 }
 
 .projects h3 {
+    font-family: "Tsukimi Rounded", sans-serif;
     font-size: 20px;
 }
 
@@ -108,16 +111,16 @@ body {
 }
 
 #ghost-hunter {
-    width: 400px;
+    width: 200px;
     padding: 5px;
 }
 
 #animal-sanctuary {
-    width: 400px;
+    width: 200px;
     padding: 5px;
 }
 
 #shell-game {
-    width: 432px;
+    width: 200px;
     padding: 5px;
 }
