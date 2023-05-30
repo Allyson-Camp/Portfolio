@@ -22,7 +22,7 @@ _This site is meant to highlight my strengths and show how my style and capabili
 
 ## Known Bugs
 
-* _The "background" div is not currently floating to the left of the page underneath the image._
+* _None as of 5/29/23._
 
 ## License
 
