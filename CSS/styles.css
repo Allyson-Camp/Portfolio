@@ -67,7 +67,16 @@ body {
     font-size: 15px;
 }
 
-#logo {
+#logo-li {
+    border: 10px solid rgb(188, 158, 196);
+    border-radius: 40px;
+    height: 60px;
+    width: 60px;
+    padding: 10px 10px 0px 10px;
+    margin: 5px;
+}
+
+#logo-gh {
     border: 10px solid rgb(188, 158, 196);
     border-radius: 40px;
     height: 60px;
